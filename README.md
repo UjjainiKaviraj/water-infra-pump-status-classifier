@@ -34,3 +34,5 @@ Develops machine learning models to predict operational status of rural water pu
 | Gradient Boosting | 74.5% |
 | Neural Network | 72.7% |
 | **Voting Ensemble (XGBoost + GB)** | **74.6%** |
+
+> **Disclaimer:** The image above is for illustrative purposes only and may not represent actual water pump infrastructure or data used in this project.
