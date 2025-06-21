@@ -34,14 +34,3 @@ Develops machine learning models to predict operational status of rural water pu
 | Gradient Boosting | 74.5% |
 | Neural Network | 72.7% |
 | **Voting Ensemble (XGBoost + GB)** | **74.6%** |
-
-## Repository Structure
-/water-pump-optimization
-│
-├── /data # Project datasets
-├── /notebooks # Jupyter notebooks with analysis
-├── /reports # Project documentation and final report
-├── /src # Source code and scripts
-│
-├── README.md # Project overview
-└── requirements.txt # Python dependencies
