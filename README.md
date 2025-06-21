@@ -1,6 +1,6 @@
 # Water Pump Functionality Prediction
 
-![Water Pump Infrastructure Optimization](water-infra-pump-status-classifier/images/project-image.png) 
+![Water Pump Infrastructure Optimization](images/project-image.png) 
 *Machine learning models for predicting water pump functionality*
 
 ## Project Overview
